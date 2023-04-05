@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This module defines a class rectangle based on 5-rectangle.py"""
 
+
 class Rectangle:
     """Class that defines a rectangle"""
 
@@ -76,4 +77,3 @@ class Rectangle:
 
         Rectangle.number_of_instances -= 1
         print("Bye rectangle...")
-
