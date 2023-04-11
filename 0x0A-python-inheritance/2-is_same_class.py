@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a class-checking function."""
+"""Module 2-is_same_class
+Defines a class-checking function."""
 
 def is_same_class(obj, a_class):
     """Checks if an object is exactly an instance of a given class.
